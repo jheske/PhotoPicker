@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoPicker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="cancel">Cancel</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="click_to_add_image">Click to Add an Image</string>
+</resources>
